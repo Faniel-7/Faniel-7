@@ -52,7 +52,9 @@ I believe there's always something new to learn, something better to build, and 
 
 ## MY CONTRIBUTIONS
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Faniel-7&bg_color=0d1117&color=ffffff&line=ff3030&point=ffffff&area=true&hide_border=true" width="100%" alt="Faniel's GitHub contribution activity graph" />
+<img src="https://ghchart.rshah.org/FF3030/Faniel-7"
+     alt="Faniel's GitHub contribution graph"
+     width="100%" />
 
 </div>
 
