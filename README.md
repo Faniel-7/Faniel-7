@@ -52,7 +52,7 @@ I believe there's always something new to learn, something better to build, and 
 
 ## MY CONTRIBUTIONS
 
-<img src="https://ghchart.rshah.org/FF3030/Faniel-7"
+<img src="https://ghchart.rshah.org/2EA043/Faniel-7"
      alt="Faniel's GitHub contribution graph"
      width="100%" />
 
