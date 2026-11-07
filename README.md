@@ -1,3 +1,4 @@
+
 <div align="center">
 
 <img src="assets/banner.png" alt="TF IS HAPPENING — Faniel, Rick and Morty escaping an AI takeover" width="100%" />
@@ -52,7 +53,7 @@ I believe there's always something new to learn, something better to build, and 
 
 ## MY CONTRIBUTIONS
 
-<img src="https://ghchart.rshah.org/2EA043/Faniel-7"
+<img src="https://ghchart.xqsit94.in/dark:default/Faniel-7"
      alt="Faniel's GitHub contribution graph"
      width="100%" />
 
@@ -166,8 +167,12 @@ An LSTM-based music generation project experimenting with neural networks and MI
 
 ## GITHUB AT A GLANCE
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Faniel-7&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff3030&icon_color=ff3030&text_color=ffffff&rank_icon=github" alt="Faniel's GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faniel-7&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff3030&text_color=ffffff" alt="Most used languages" />
+<a href="https://github.com/Faniel-7">
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=Faniel-7&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ff3030&icon_color=ff3030&text_color=ffffff&rank_icon=github" alt="Faniel's GitHub stats" />
+</a>
+<a href="https://github.com/Faniel-7">
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Faniel-7&layout=compact&hide_border=true&bg_color=0d1117&title_color=ff3030&text_color=ffffff&langs_count=8" alt="Faniel's most used languages" />
+</a>
 
 <br/>
 
